@@ -15,13 +15,20 @@ header{
 }
 
 header .box-1{
-    margin-left: 800px;
+    margin-right: 200px;
     margin-top: -30px;
+    float: right;
  }
+
+
+
 .menu{
+    width: 10px;
     position: relative;
     color:#fff;
     padding: 10px;
+    cursor: pointer;
+  
 }
  .btn-menu{
     position: absolute;
@@ -30,6 +37,7 @@ header .box-1{
     height: 15px;
     top: -4px;
     padding: 10px;
+
  }
 
  .btn-menu div{
@@ -39,12 +47,10 @@ header .box-1{
     padding-top: 0.5px;
     border-radius: 2px;
     background-color: #fff;
-    transform: 200px;
+
+    overflow: hidden;
 }
 
-.btn-menu div:hover{
-    transform:translate(1s);
-}
 
 
 
