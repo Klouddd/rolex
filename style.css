@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header{
+    width: 100%;
+    height: 70px; 
+    background-color: #0E5C30;
+    padding-left: 80px;
+    padding-top: 20px;
+    position: fixed;
+}
+
+header .box-1{
+    margin-left: 800px;
+    margin-top: -30px;
+ }
+.menu{
+    position: relative;
+    color:#fff;
+    padding: 10px;
+}
+ .btn-menu{
+    position: absolute;
+    left: -35px;
+    width: 25px;
+    height: 15px;
+    top: -4px;
+    padding: 10px;
+ }
+
+ .btn-menu div{
+    margin: 8px auto;
+    width: 80%;
+    height: 2px;
+    padding-top: 0.5px;
+    border-radius: 2px;
+    background-color: #fff;
+    transform: 200px;
+}
+
+.btn-menu div:hover{
+    transform:translate(1s);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+   margin: 0;
+   padding: 0;
+
+}
+.first-content{
+    background-image:url(cloc.jpg);
+    background-size: cover;
+    padding-top: 270px;
+    padding-left: 100px;
+    box-sizing: border-box;
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+
+header{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(213, 83, 17);
+    padding-left: 200px;
+    font-family: sans-serif;
+    font-size: 20px;
+    position: fixed;
+    
+}
+
+header .box-1{
+   margin-left: 800px;
+   margin-top: -30px;
+}
+
+.container{
+
+    flex-direction: column;  
+    width: 300px;
+    padding: 15px;
+    border: 1px solid skyblue;
+    border-radius: 5px;
+
+
+}
+
+
+
+.block-1{
+    width: 300px;
+    height: 450px;
+    background-color: aqua;
+    border: 2px solid #fff;
+    border-radius: 25px;
+    box-sizing: border-box;
+    padding-top: 20px;
+} */
+
+
+
+
+
+
+/* input {
+    margin: 5px 0px;
+    height: 35px;
+    padding: 7px;
+
+} */
+
+/* button{
+    height: 35px;
+    margin: 5px 0px;
+    background-color: skyblue;
+    border: none;
+    border-radius: 5px;
+    color: #333;
+}
+button:hover{
+    background-color: #333;
+    color: skyblue;
+} */
+
+/* .box-2{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
